@@ -1,2 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>我的第一个网页</title>
+    <style>
+        #ye{
+            color: #fff334;
+        }
+        .red{
+            color: red;
+        }
+        .grren{
+            color:green;
+        }
+        *{
+            color: blue;
+        }
+    h1{
+        font-size: 288px;
+    }
+    h1.grren{
+        text-align: center;
 
-
+    }
+    </style>
+</head>
+<body>
+<h1><strong>G</strong>
+    <strong class="red">o</strong>
+    <strong id="ye">o</strong>
+    <strong>g</strong>
+    <strong class="grren">l</strong>
+    <strong class="red">e</strong></h1>
+<h1>hello word</h1>
+</body>
+</html>
+
